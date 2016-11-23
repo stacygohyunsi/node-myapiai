@@ -4,8 +4,8 @@ Allows user to add Api.Ai functions into Node for use with the MS Bots framework
 ### To handle simple queries
 ai.query() takes in two inputs (_options, callback). 
 _ Options include:
-```
 
+```
 key : String (MANDATORY)
  - This can be found in Api.Ai
  - if not included, will throw err.
@@ -26,6 +26,8 @@ sessionId : String
 
 ## Example usage 
 See examples folder for detailed example
+
+```
 // ...
 			ai.query(
 				{
@@ -47,8 +49,10 @@ See examples folder for detailed example
 // ...
 ```
 ### To handle simple queries
-Coming soon
 
+```
+Coming soon
+```
 ## Changelog
 ### 0.0.1
 Initial release
