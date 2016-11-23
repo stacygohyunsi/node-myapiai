@@ -1,0 +1,24 @@
+{
+  "name": "node-myapiai",
+  "version": "0.0.1",
+  "description": "Allows user to add api.ai functions into Node for use with the MS Bots framework or other bots such as Facebook Messenger etc.",
+  "main": "examples/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacygohyunsi/node-myapiai.git"
+  },
+  "keywords": [
+    "node",
+    "api.ai",
+    "bots"
+  ],
+  "author": "Stacy Goh <stacy.gohys@gmail.com> (http://imstacy.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacygohyunsi/node-myapiai/issues"
+  },
+  "homepage": "https://github.com/stacygohyunsi/node-myapiai#readme"
+}
